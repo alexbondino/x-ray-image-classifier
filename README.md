@@ -7,8 +7,6 @@ X-ray image classifier for pneumonia conditions.
 - [Requirements](#requirements)
 - [¿How to use the notebook?](#¿howtousethenotebook?)
 - [Contact](#contact)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Introduction
 
