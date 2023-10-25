@@ -22,7 +22,8 @@ The output of this project will be a trained .pth model and a notebook with the 
  - todo rest
 
 ## ¿How to use the notebook?
-Instructions Todo
+1. Install the requirements
+   '''pip install -r requirements.txt'''
 
 ## Contact
 
