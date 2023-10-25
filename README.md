@@ -4,7 +4,7 @@ X-ray image classifier for pneumonia conditions.
 ## Index
 
 - [Introduction](#introduction)
-- [Requirements](#requirements)
+- [¿How to use the model?](#¿howtousethemodel?)
 - [¿How to use the notebook?](#¿howtousethenotebook?)
 - [Contact](#contact)
 
@@ -14,15 +14,26 @@ In the field of medicine, early and accurate disease detection is of paramount i
 
 The output of this project will be a trained .pth model and a notebook with the full research.
 
-## Requirements
- - torch
- - numpy
- - seaborn
- - matplotlib
- - todo rest
+## ¿How to use the model?
+1. Create and activate a new environment  
+   ```conda create --name x-ray python=3.8```  
+   ```conda activate x-ray```  
+3. Install the requirements  
+   ```pip install -r requirements.txt```
+4. Download the .pth model.
+5. Use the .pth model as you wish
 
 ## ¿How to use the notebook?
-Instructions Todo
+1. Create and activate a new environment.   
+   ```conda create --name x-ray python=3.8```  
+   ```conda activate x-ray```
+2. Install the requirements  
+   ```pip install -r requirements.txt```
+3. Clone the repository
+4. Install and open jupyter lab.    
+   ```conda install -c conda-forge jupyterlab```  
+   ```jupyter lab```
+5. Feel free to play with the notebook as you wish.
 
 ## Contact
 
